@@ -1,3 +1,4 @@
+remote_theme: themefisher/kross-jekyll
 baseurl: https://kumanidev.github.io/
 url: /jekyllportfolio/
 
